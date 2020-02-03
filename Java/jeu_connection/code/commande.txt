@@ -1,0 +1,2 @@
+javac -encoding ISO-8859-1 src/*.java -d bin/
+java -cp bin App
